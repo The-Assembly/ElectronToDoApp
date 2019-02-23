@@ -1,0 +1,12 @@
+{
+  "name": "electrontodoapp",
+  "version": "1.0.0",
+  "description": "We built a multiwindow To-Do app using Electron and Javascript.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^4.0.5"
+  }
+}
